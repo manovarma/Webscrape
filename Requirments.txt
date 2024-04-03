@@ -1,0 +1,4 @@
+1.Jupyterbook
+2.Python Programming,Pandas.
+3.python libraries -> Pandas(for data wrangling),Beatuifulsoup(for Webscraping)
+4.Basic knowledge of HTML
